@@ -1,0 +1,11 @@
+# Compiled executables and build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.pdb
+.vscode/bin/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
